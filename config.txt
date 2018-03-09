@@ -9,6 +9,5 @@ process = git-lfs filter-process
 required = true
 [user]
 	
-name = karelpaan
-	
+name = uusnimi	
 email = Karel.Paan@tudeng.ut.ee
